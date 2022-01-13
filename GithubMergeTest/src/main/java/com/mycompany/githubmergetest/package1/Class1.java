@@ -9,5 +9,6 @@ package com.mycompany.githubmergetest.package1;
  * @author Nathan
  */
 public class Class1 {
-    
+    private String name = "timothy";
+    private String branch = "timothy";    
 }
