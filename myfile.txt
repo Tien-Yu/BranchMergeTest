@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-
 timothy: timothy 說 你好
-=======
+
 main: 幹
->>>>>>> 76a4094b10ac88a80aff35ee72d22ddd0a2e9dd5
+
+jacky: jacky 修改了檔案
+
